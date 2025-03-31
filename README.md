@@ -2,8 +2,10 @@
 
 I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
 
-print ("<strong>About me:</strong>")
-I'm currently learning coding through Codedex!
+<h1><strong>About me:</strong> </h1>
+  <p>
+    I'm currently learning coding through Codedex!
+  </p>
 
 Fun facts:
 I really love to game..
