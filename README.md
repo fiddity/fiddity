@@ -18,8 +18,7 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
    </ul>
 </p>
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@laslinchng20690/30-nites-of-code)  
+## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@laslinchng20690/30-nites-of-code)  
   ![@laslinchng20690 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=laslinchng20690)
   
 <!--
