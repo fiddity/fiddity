@@ -4,7 +4,9 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
 
 <h3><strong>About me:</strong> </h1>
   <p>
-    I'm currently learning coding through Codedex!
+    <ul>
+      <li>I'm currently learning coding through Codedex!</li>
+    </ul>
   </p>
 
 <h3><strong>Fun facts:</strong></h3>
