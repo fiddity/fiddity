@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello there 👋
 
+I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
+
+About me:
+I'm currently learning coding through Codedex!
+
+Fun facts:
+I really love to game..
+I came from a junior college, before polytechnic :)
+I take up too many hobbies for my own good
 <!--
 **fiddity/fiddity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
