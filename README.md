@@ -18,8 +18,9 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
    </ul>
 </p>
 
-## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@laslinchng20690/30-nites-of-code)  
+<p> #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@laslinchng20690/30-nites-of-code)  
   ![@laslinchng20690 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=laslinchng20690)
+</p>
   
 <!--
 **fiddity/fiddity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
