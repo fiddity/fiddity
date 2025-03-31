@@ -5,6 +5,7 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
 <h3><strong>About me:</strong> </h1>
   <p>
     <ul>
+      <li>I work at a Dog Daycare Centre 🐶❤️</li>
       <li>I'm currently learning coding through Codedex!</li>
     </ul>
   </p>
