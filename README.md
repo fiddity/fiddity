@@ -7,7 +7,7 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
     <ul>
       <li>I work at a Dog Daycare Centre 🐶❤️</li>
       <li>I'm currently learning Python and HTML!</li>
-      <li>I dream to build a Baymax one day</li>
+      <li>I dream to build a Baymax</li>
     </ul>
   </p>
 
