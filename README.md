@@ -6,15 +6,16 @@ I'm Jing Jing, Biomedical Science Student @ Singapore Poly!
   <p>
     <ul>
       <li>I work at a Dog Daycare Centre 🐶❤️</li>
-      <li>I'm currently learning coding through Codedex!</li>
+      <li>I'm currently learning Python and HTML!</li>
+      <li>I dream to build a Baymax one day</li>
     </ul>
   </p>
 
 <h3><strong>Fun facts:</strong></h3>
 <p>
   <ul>
-    <li>I really love to game..</li>
-    <li>I came from a junior college, before polytechnic :)</li>
+    <li>I have tons of unplayed games sitting in my steam library lookin pretty</li>
+    <li>I have never gotten COVID-19ed, yet..</li>
     <li>I take up too many hobbies for my own good</li>
    </ul>
 </p>
